@@ -1,0 +1,36 @@
+Author: Jose Portilla
+Head of Data Science at Pierian Training
+
+Course Contents:
+Command Line Basics
+Installing Python
+Running Python Code
+Strings
+Lists 
+Dictionaries
+Tuples
+Sets
+Number Data Types
+Print Formatting
+Functions
+Scope
+args/kwargs
+Built-in Functions
+Debugging and Error Handling
+Modules
+External Modules
+Object Oriented Programming
+Inheritance
+Polymorphism
+File I/O
+Advanced Methods
+Unit Tests
+and much more!
+
+
+Skill level: All Levels
+Students: 1616313
+Languages: English
+Captions: Yes
+Lectures: 155
+Video: 22 total hours
